@@ -15,3 +15,5 @@ Lr-1.html, Lr-2.html, Lr-3.html: Different projects, ideas and specs for the Lr-
 I also want to make a page for all the "units" used in this project, so for example the LSu-1 would have its own page among other stabilization units.
 
 Note that the orginal name for this project was "Nova", now changed to Lancer.
+
+The LSu-1 will be made of an Arduino R3, the MPU6050 to measure the aircraft's angle and finaly servos connected elevators and potentially the ailerons.
